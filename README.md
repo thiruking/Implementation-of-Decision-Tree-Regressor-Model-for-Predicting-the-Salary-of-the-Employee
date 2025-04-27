@@ -62,6 +62,40 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+### Reading of dataset
+
+
+![image](https://github.com/user-attachments/assets/327b23d0-86c8-4de7-8c0a-84b5b108d834)
+
+### Value of df.head()
+
+![image](https://github.com/user-attachments/assets/07593d6f-d751-4ff8-9702-57b5499be1c4)
+
+### Value of df.isnull().sum()
+![image](https://github.com/user-attachments/assets/db92ec36-3f7e-4224-bf76-214efafe936d)
+
+### df.info()
+
+![image](https://github.com/user-attachments/assets/ad80bc6c-27e9-4431-ad02-2bd3a264be79)
+
+Data after encoding calculating Mean Squared Error
+
+![image](https://github.com/user-attachments/assets/b28f17f2-5a72-4e54-8d19-6bb3bbbfff76)
+
+R2 value
+![image](https://github.com/user-attachments/assets/781ebba9-120b-4d65-b2a0-f6e8a99a5d1f)
+
+Model prediction with [5,6] as input
+![image](https://github.com/user-attachments/assets/e8194090-6b27-4fdb-b4ed-539241954e1b)
+
+
+
+
+
+
+
+
+
 
 
 
